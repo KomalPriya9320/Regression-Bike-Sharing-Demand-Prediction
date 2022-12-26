@@ -1,6 +1,6 @@
 # Komal_Regression_Bike-Sharing-Demand-Prediction
 Supervised Regression Model
-o	Data Understanding/
+o	Data Understanding
 o	Data Cleaning
 o	Data Pre-Processing
 o	Feature Engineering
