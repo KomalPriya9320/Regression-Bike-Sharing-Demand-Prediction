@@ -1,4 +1,4 @@
-# Komal_Regression_Bike-Sharing-Demand-Prediction
+# Regression-Bike-Sharing-Demand-Prediction
 Supervised Regression Model
 1. Data Understanding
 2. Data Cleaning
